@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ronald21082002
-- 👀 I’m interested in  aprender e se expecializar na área de front-end , back-end, react e Ui Designer.
+- 👀 I’m interested in  learn and specialize in the area of ​​front-end, back-end, react and Ui Designer.
 - 🌱 I’m currently learning java, html, css, react, react native.
 - 📫 Email de contato : ronaldferreira@alu.ufc.br
 
